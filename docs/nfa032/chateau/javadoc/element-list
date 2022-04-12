@@ -1,5 +1,6 @@
 net.cnam
 net.cnam.entity
+net.cnam.generator
 net.cnam.object
 net.cnam.structure
 net.cnam.utils
