@@ -1,2 +1,2 @@
 # NFA032 - Chateau
-* [JavaDoc](nfa032/chateau/javadoc/index.html)
+* [JavaDoc](https://docs.cnam.farmvivi.fr/nfa032/chateau/javadoc/index.html)
