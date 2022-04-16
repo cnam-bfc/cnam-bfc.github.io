@@ -5,3 +5,4 @@ net.cnam.object
 net.cnam.structure
 net.cnam.structure.block
 net.cnam.utils
+net.cnam.utils.console
