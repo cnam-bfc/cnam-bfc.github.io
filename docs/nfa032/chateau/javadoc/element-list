@@ -1,4 +1,5 @@
 net.cnam
+net.cnam.console
 net.cnam.entity
 net.cnam.generator
 net.cnam.object
