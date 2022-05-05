@@ -3,7 +3,7 @@ net.cnam.entity
 net.cnam.generator
 net.cnam.gui
 net.cnam.gui.component
-net.cnam.gui.menu
+net.cnam.gui.menu.mainmenu
 net.cnam.object
 net.cnam.structure
 net.cnam.structure.block
