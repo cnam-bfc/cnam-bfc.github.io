@@ -1,11 +1,14 @@
 net.cnam
 net.cnam.entity
+net.cnam.entity.enemy
 net.cnam.fight
 net.cnam.generator
 net.cnam.gui
 net.cnam.gui.component
 net.cnam.gui.menu.mainmenu
 net.cnam.object
+net.cnam.object.consumable
+net.cnam.object.weapon
 net.cnam.structure
 net.cnam.structure.block
 net.cnam.structure.block.decorative
