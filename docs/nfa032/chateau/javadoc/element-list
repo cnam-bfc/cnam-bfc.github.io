@@ -1,5 +1,6 @@
 net.cnam
 net.cnam.entity
+net.cnam.fight
 net.cnam.generator
 net.cnam.gui
 net.cnam.gui.component
