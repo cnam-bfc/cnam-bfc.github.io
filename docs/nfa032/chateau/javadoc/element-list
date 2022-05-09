@@ -7,6 +7,7 @@ net.cnam.gui.menu.mainmenu
 net.cnam.object
 net.cnam.structure
 net.cnam.structure.block
+net.cnam.structure.block.decorative
 net.cnam.utils
 net.cnam.utils.array
 net.cnam.utils.console
