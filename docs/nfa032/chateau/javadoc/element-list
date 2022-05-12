@@ -1,6 +1,7 @@
 net.cnam
 net.cnam.entity
 net.cnam.entity.enemy
+net.cnam.entity.pet
 net.cnam.game
 net.cnam.generator
 net.cnam.gui
