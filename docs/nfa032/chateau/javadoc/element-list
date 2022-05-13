@@ -6,7 +6,7 @@ net.cnam.chateau.game
 net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
-net.cnam.chateau.gui.mainmenu
+net.cnam.chateau.gui.main.menu
 net.cnam.chateau.item
 net.cnam.chateau.item.consumable
 net.cnam.chateau.item.weapon
