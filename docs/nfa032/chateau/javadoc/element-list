@@ -7,6 +7,7 @@ net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.main.menu
+net.cnam.chateau.gui.settings.audio.music
 net.cnam.chateau.gui.settings.menu
 net.cnam.chateau.item
 net.cnam.chateau.item.consumable
