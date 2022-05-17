@@ -7,6 +7,7 @@ net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.main.menu
+net.cnam.chateau.gui.play.menu
 net.cnam.chateau.gui.settings.audio.music
 net.cnam.chateau.gui.settings.audio.soundeffects
 net.cnam.chateau.gui.settings.menu
