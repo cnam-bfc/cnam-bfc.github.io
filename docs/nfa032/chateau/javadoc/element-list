@@ -6,8 +6,10 @@ net.cnam.chateau.game
 net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
-net.cnam.chateau.gui.error
+net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.event
+net.cnam.chateau.gui.event.block
+net.cnam.chateau.gui.event.key
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.play.menu
 net.cnam.chateau.gui.settings.audio.music
