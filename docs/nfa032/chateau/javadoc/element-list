@@ -4,6 +4,7 @@ net.cnam.chateau.entity
 net.cnam.chateau.entity.enemy
 net.cnam.chateau.entity.pet
 net.cnam.chateau.game
+net.cnam.chateau.game.event
 net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
@@ -22,6 +23,7 @@ net.cnam.chateau.item.weapon
 net.cnam.chateau.structure
 net.cnam.chateau.structure.block
 net.cnam.chateau.structure.block.decorative
+net.cnam.chateau.structure.block.door
 net.cnam.chateau.utils
 net.cnam.chateau.utils.array
 net.cnam.chateau.utils.audio
