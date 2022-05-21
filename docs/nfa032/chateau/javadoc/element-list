@@ -2,6 +2,7 @@ net.cnam.chateau
 net.cnam.chateau.audio
 net.cnam.chateau.entity
 net.cnam.chateau.entity.enemy
+net.cnam.chateau.entity.enemy.boss
 net.cnam.chateau.entity.pet
 net.cnam.chateau.game
 net.cnam.chateau.game.event
