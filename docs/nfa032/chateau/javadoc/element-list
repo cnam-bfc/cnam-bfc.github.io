@@ -12,6 +12,7 @@ net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.event
 net.cnam.chateau.gui.event.block
+net.cnam.chateau.gui.event.entity
 net.cnam.chateau.gui.event.key
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.play.menu
