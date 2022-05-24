@@ -17,6 +17,7 @@ net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.play.bed
 net.cnam.chateau.gui.play.blockcontainer
+net.cnam.chateau.gui.play.cage
 net.cnam.chateau.gui.play.door
 net.cnam.chateau.gui.play.fight
 net.cnam.chateau.gui.play.menu
