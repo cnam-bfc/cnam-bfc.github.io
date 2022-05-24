@@ -15,7 +15,7 @@ net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.main.menu
-net.cnam.chateau.gui.play.blockmenu
+net.cnam.chateau.gui.play.block
 net.cnam.chateau.gui.play.door
 net.cnam.chateau.gui.play.fight
 net.cnam.chateau.gui.play.menu
