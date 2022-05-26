@@ -34,6 +34,7 @@ net.cnam.chateau.structure.block
 net.cnam.chateau.structure.block.container
 net.cnam.chateau.structure.block.decorative
 net.cnam.chateau.structure.block.door
+net.cnam.chateau.structure.block.trap
 net.cnam.chateau.utils
 net.cnam.chateau.utils.array
 net.cnam.chateau.utils.audio
