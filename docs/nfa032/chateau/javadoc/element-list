@@ -14,10 +14,13 @@ net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.main.menu
+net.cnam.chateau.gui.play
 net.cnam.chateau.gui.play.bed
 net.cnam.chateau.gui.play.cage
 net.cnam.chateau.gui.play.container
 net.cnam.chateau.gui.play.door
+net.cnam.chateau.gui.play.door.sage
+net.cnam.chateau.gui.play.door.sage.puzzle
 net.cnam.chateau.gui.play.fight
 net.cnam.chateau.gui.play.menu
 net.cnam.chateau.gui.settings.audio.music
