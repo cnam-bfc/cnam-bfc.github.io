@@ -29,6 +29,7 @@ net.cnam.chateau.gui.settings.audio.soundeffects
 net.cnam.chateau.gui.settings.menu
 net.cnam.chateau.item
 net.cnam.chateau.item.consumable
+net.cnam.chateau.item.weapon
 net.cnam.chateau.item.wearable
 net.cnam.chateau.structure
 net.cnam.chateau.structure.block
@@ -41,4 +42,3 @@ net.cnam.chateau.utils.array
 net.cnam.chateau.utils.audio
 net.cnam.chateau.utils.console
 net.cnam.chateau.utils.direction
-net.cnam.chateau.weapon
