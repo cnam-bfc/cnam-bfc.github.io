@@ -13,6 +13,7 @@ net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
+net.cnam.chateau.gui.escape.menu
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.play.bed
 net.cnam.chateau.gui.play.cage
