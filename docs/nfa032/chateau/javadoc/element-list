@@ -25,6 +25,7 @@ net.cnam.chateau.gui.play.fight.loot
 net.cnam.chateau.gui.play.fight.sage
 net.cnam.chateau.gui.play.fight.sage.puzzle
 net.cnam.chateau.gui.play.finish
+net.cnam.chateau.gui.play.item.consumable
 net.cnam.chateau.gui.play.start
 net.cnam.chateau.gui.settings.audio.music
 net.cnam.chateau.gui.settings.audio.soundeffects
