@@ -15,6 +15,7 @@ net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.main.menu.statistics
+net.cnam.chateau.gui.play
 net.cnam.chateau.gui.play.bed
 net.cnam.chateau.gui.play.cage
 net.cnam.chateau.gui.play.container
