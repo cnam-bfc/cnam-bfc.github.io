@@ -13,7 +13,6 @@ net.cnam.chateau.generator
 net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
-net.cnam.chateau.gui.escape.menu
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.main.menu.statistics
 net.cnam.chateau.gui.play.bed
@@ -21,6 +20,7 @@ net.cnam.chateau.gui.play.cage
 net.cnam.chateau.gui.play.container
 net.cnam.chateau.gui.play.door
 net.cnam.chateau.gui.play.door.trap
+net.cnam.chateau.gui.play.escape
 net.cnam.chateau.gui.play.fight
 net.cnam.chateau.gui.play.fight.loot
 net.cnam.chateau.gui.play.fight.sage
