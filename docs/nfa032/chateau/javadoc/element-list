@@ -8,6 +8,7 @@ net.cnam.chateau.event
 net.cnam.chateau.event.block
 net.cnam.chateau.event.entity
 net.cnam.chateau.event.key
+net.cnam.chateau.event.player
 net.cnam.chateau.game
 net.cnam.chateau.generator
 net.cnam.chateau.gui
