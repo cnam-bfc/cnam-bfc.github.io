@@ -14,6 +14,7 @@ net.cnam.chateau.gui
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.information
+net.cnam.chateau.gui.information.commands
 net.cnam.chateau.gui.information.credits
 net.cnam.chateau.gui.main.menu
 net.cnam.chateau.gui.main.menu.statistics
