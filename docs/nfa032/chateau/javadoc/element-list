@@ -23,6 +23,7 @@ net.cnam.chateau.gui.play.container
 net.cnam.chateau.gui.play.door
 net.cnam.chateau.gui.play.door.trap
 net.cnam.chateau.gui.play.escape
+net.cnam.chateau.gui.play.escape.cheat
 net.cnam.chateau.gui.play.fight
 net.cnam.chateau.gui.play.fight.loot
 net.cnam.chateau.gui.play.fight.sage
