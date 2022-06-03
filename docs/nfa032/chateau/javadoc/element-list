@@ -3,7 +3,6 @@ net.cnam.chateau.audio
 net.cnam.chateau.entity
 net.cnam.chateau.entity.enemy
 net.cnam.chateau.entity.enemy.boss
-net.cnam.chateau.entity.pet
 net.cnam.chateau.event
 net.cnam.chateau.event.block
 net.cnam.chateau.event.entity
