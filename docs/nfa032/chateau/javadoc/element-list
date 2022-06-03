@@ -12,6 +12,7 @@ net.cnam.chateau.event.player
 net.cnam.chateau.game
 net.cnam.chateau.generator
 net.cnam.chateau.gui
+net.cnam.chateau.gui.common
 net.cnam.chateau.gui.component
 net.cnam.chateau.gui.dialog
 net.cnam.chateau.gui.information
