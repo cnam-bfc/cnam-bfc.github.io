@@ -1,5 +1,6 @@
 net.cnam.fleetview
 net.cnam.fleetview.controller
+net.cnam.fleetview.controller.carte
 net.cnam.fleetview.controller.colis
 net.cnam.fleetview.controller.courses
 net.cnam.fleetview.controller.coursier
