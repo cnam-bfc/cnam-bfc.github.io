@@ -2,8 +2,10 @@ net.cnam.fleetview
 net.cnam.fleetview.controller
 net.cnam.fleetview.controller.carte
 net.cnam.fleetview.controller.colis
+net.cnam.fleetview.controller.connexion
 net.cnam.fleetview.controller.courses
 net.cnam.fleetview.controller.coursier
+net.cnam.fleetview.controller.cycle
 net.cnam.fleetview.controller.utilisateur
 net.cnam.fleetview.database
 net.cnam.fleetview.model
@@ -18,6 +20,7 @@ net.cnam.fleetview.model.coursier
 net.cnam.fleetview.model.coursiertravail
 net.cnam.fleetview.model.coursierutilisateur
 net.cnam.fleetview.model.cycle
+net.cnam.fleetview.model.cyclecomplet
 net.cnam.fleetview.model.cycleetat
 net.cnam.fleetview.model.cycleetattype
 net.cnam.fleetview.model.cyclefournisseur
@@ -57,6 +60,7 @@ net.cnam.fleetview.view.components.field
 net.cnam.fleetview.view.components.label
 net.cnam.fleetview.view.components.onglet
 net.cnam.fleetview.view.components.row
+net.cnam.fleetview.view.connexion
 net.cnam.fleetview.view.course.edit
 net.cnam.fleetview.view.course.list
 net.cnam.fleetview.view.coursier.list
