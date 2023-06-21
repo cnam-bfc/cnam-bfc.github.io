@@ -4,6 +4,7 @@ net.cnam.fleetview.controller.carte
 net.cnam.fleetview.controller.colis
 net.cnam.fleetview.controller.courses
 net.cnam.fleetview.controller.coursier
+net.cnam.fleetview.controller.utilisateur
 net.cnam.fleetview.database
 net.cnam.fleetview.model
 net.cnam.fleetview.model.adresse
