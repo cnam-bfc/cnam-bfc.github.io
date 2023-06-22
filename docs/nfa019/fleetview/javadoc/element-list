@@ -64,7 +64,7 @@ net.cnam.fleetview.view.connexion
 net.cnam.fleetview.view.course.edit
 net.cnam.fleetview.view.course.list
 net.cnam.fleetview.view.coursier.list
-net.cnam.fleetview.view.coursier.show
+net.cnam.fleetview.view.coursier.visualisation
 net.cnam.fleetview.view.cycle
 net.cnam.fleetview.view.documents
 net.cnam.fleetview.view.utils
